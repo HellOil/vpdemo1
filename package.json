@@ -1,0 +1,24 @@
+{
+  "name": "vpdemo1",
+  "version": "1.0.0",
+  "description": "Exemplo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githttps://github.com/HellOil/vpdemo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellOil/vpdemo1/issues"
+  },
+  "homepage": "https://github.com/HellOil/vpdemo1#readme",
+  "dependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
