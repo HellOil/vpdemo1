@@ -14,10 +14,10 @@ Nenhum homem branco na colônia do Quênia sabe a localização da Montanha do V
 
 ### Seguindo a Trilha
 
-O mistério principal a ser solucionado em Nairóbi é a localização da Montanha do Vento Agourento. Se os investigadores falarem com Jonah Kensington em Nova York e conseguirem as anotações de Elias sobre Nairóbi ([**Documentos Carlyle: América 12**](/pistas/README.md#documentos-carlyle-américa-12)), eles contam com pistas para Johnstone Kenyatta, o Tenente Mark Selkirk (morto) e Nelson Prego, assim como Sam Mariga, Dr. Starret, Neville Jermyn e o Coronel Endicott. Se falarem com Arthur Emerson ([**Importações Emerson**](Am%C3%A9rica.md#importacoes-emerson)), saberão que um exportador mombaçano chamado Ahja Singh envia regularmente cargas para América ([**Horror na Casa Ju-Ju**](Am%C3%A9rica.md#horror-na-casa-ju-ju), p. 154, América). Eles também pode saber o nome da sacerdotisa: M’Weru. Se já tiverem encontrando se com Jack Brady em Xangai, também sendo provável que tenham um mapa detalhado mostrando o caminho para a Montanha do Vento Agourento. Se não tiverem nenhuma dessas pistas, é difícil entender como foram parar no Quênia! Se acabaram chegando ao país meio que por acidente, use o [_Nairobi Star_](#o-nairobi-star) para os direcioná-los para um ou mais dos contatos principais em Nairóbi.
+O mistério principal a ser solucionado em Nairóbi é a localização da Montanha do Vento Agourento. Se os investigadores falarem com Jonah Kensington em Nova York e conseguirem as anotações de Elias sobre Nairóbi ([**Documentos Carlyle: América 12**](/pistas.md#documentos-carlyle-america-12)), eles contam com pistas para Johnstone Kenyatta, o Tenente Mark Selkirk (morto) e Nelson Prego, assim como Sam Mariga, Dr. Starret, Neville Jermyn e o Coronel Endicott. Se falarem com Arthur Emerson ([**Importações Emerson**](america.md#importações-emerson)), saberão que um exportador mombaçano chamado Ahja Singh envia regularmente cargas para América ([**Horror na Casa Ju-Ju**](america.md#horror-na-casa-ju-ju)). Eles também pode saber o nome da sacerdotisa: M’Weru. Se já tiverem encontrando se com Jack Brady em Xangai, também sendo provável que tenham um mapa detalhado mostrando o caminho para a Montanha do Vento Agourento. Se não tiverem nenhuma dessas pistas, é difícil entender como foram parar no Quênia! Se acabaram chegando ao país meio que por acidente, use o [_Nairobi Star_](#o-nairobi-star) para os direcioná-los para um ou mais dos contatos principais em Nairóbi.
 
 ::: tip Nota:
-Todos os PNJs quenianos mencionados acima estão descritos em [**Dramatis Personae: Quênia**](/dramatis-personae/README.md#quênia).
+Todos os PNJs quenianos mencionados acima estão descritos em [**Dramatis Personae: Quênia**](/dramatis-personae.md#quênia).
 :::
 
 A Expedição Carlyle chegou no Quênia em 1919 com o pretexto de fazer um safári pelo Grande Vale do Rift. Eles depois comentaram sobre uma trilha para confirmar informações obtidas no Egito, a respeito dos seguidores de um líder religioso que migrou para o sul, para o Quênia.
@@ -26,13 +26,13 @@ Enquanto estavam em Nairóbi, os líderes da expedição ficaram na [**Casa Hamp
 
 Com alguns dias disponíveis enquanto os preparativos eram feitos para a jornada até a Montanha do Vento Agourento, a expedição decidiu passar uma noite na cabana de caça do Coronel Endicott (ver cenário paralelo [**A Cabana de Caça**](#cenário-paralelo-a-cabana-de-caça)).
 
-Jack Brady ([**Dramatis Personae: China**](/dramatis-personae/README.md#china)) estava ficando cada vez mais incomodado com os delírios apavorantes de Carlyle e com o poder de Sir Aubrey sobre o amigo. Brady drogou Carlyle e voltou para Mombaça, com Carlyle alternando entre seu comportamento normal e a loucura enquanto os dois viajavam num dhow (navio veleiro) árabe para Durban.
+Jack Brady ([**Dramatis Personae: China**](/dramatis-personae.md#china)) estava ficando cada vez mais incomodado com os delírios apavorantes de Carlyle e com o poder de Sir Aubrey sobre o amigo. Brady drogou Carlyle e voltou para Mombaça, com Carlyle alternando entre seu comportamento normal e a loucura enquanto os dois viajavam num dhow (navio veleiro) árabe para Durban.
 
 Depois que Brady e Carlyle fugiram, os membros restantes da expedição saíram com seus muitos carregadores para a montanha. Numa noite, no meio de uma clareira, eles fizeram um ritual hediondo, sacrificando os carregadores e invocando vários arautos de Nyarlathotep.
 
 Em seguida ao ritual e os sacrifícios, a expedição completou sua jornada a Montanha do Vento Agourento. M’Weru e Hypatia Masters ficaram na Montanha. O desaparecimento de Carlyle deixou Huston e Penhew um tanto confusos e preocupados, e eles viajaram em segredo de volta para Mombaça, antes de partir do Quênia.
 
-Passaram-se meses antes de qualquer pessoa descobrir o local do massacre. Sam Mariga, um jardineiro na estação ferroviária de Nairóbi, estava visitando um primo na vila de Ndovu em Aberdare quando ouvir falar sobre muitas pessoas que foram mortas e não enterradas, e como não era prudente de se aproximar de lá. Ele informou o que encontrou para as autoridades, que não fizeram muito com a informação, até que Erica Carlyle ([**Dramatis Personae: América**](/dramatis-personae/README.md#américa)), irmã de Roger Carlyle, visitou o Quênia em 1920. Erica se encontrou com as autoridades e o relato de Mariga foi levantado. O tenente Mark Selkirk e um pelotão foram enviados para procurar pelos restos mortais, os localizando em 20 de maio de 1920.
+Passaram-se meses antes de qualquer pessoa descobrir o local do massacre. Sam Mariga, um jardineiro na estação ferroviária de Nairóbi, estava visitando um primo na vila de Ndovu em Aberdare quando ouvir falar sobre muitas pessoas que foram mortas e não enterradas, e como não era prudente de se aproximar de lá. Ele informou o que encontrou para as autoridades, que não fizeram muito com a informação, até que Erica Carlyle ([**Dramatis Personae: América**](/dramatis-personae.md#américa)), irmã de Roger Carlyle, visitou o Quênia em 1920. Erica se encontrou com as autoridades e o relato de Mariga foi levantado. O tenente Mark Selkirk e um pelotão foram enviados para procurar pelos restos mortais, os localizando em 20 de maio de 1920.
 
 As autoridades associaram o massacre com a Expedição Carlyle, sobre a qual eles ouviam nenhuma informação há muito tempo. Nenhum traço de restos mortais caucasianos foram encontrados entre os corpos, mas as autoridades aproveitaram a oportunidade para acusar e subjugar a população nativa. Os membros da expedição foram contabilizados entre os mortos, e o povo Nandi foi culpado pelo ataque, com cinco homens inocentes sendo enforcados por conta disso.
 
@@ -55,7 +55,7 @@ Elias chegou em Nairóbi em 23 de julho de 1924, tendo seguido várias pistas pe
 
 Elias entrevistou Johnstone Kenyatta, que lhe disse que os assassinatos Carlyle podiam ter sido feitos pelo Culto da Língua Sangrenta. Ele também falou com o Tenente Mark Selkirk (agora falecido), chefe do pelotão que encontrou os restos mortais da Expedição Carlyle — o homem ele confirmou parcialmente a história oficial, mas eventualmente admitiu que não foram encontrados nenhum cadáver de caucasianos entre os mortos.
 
-O intrépido autor então foi até Nelson Prego no Bar Victoria em Nairóbi, que afirmou ter visto Jack Brady ([**Dramatis Personae: China**](/dramatis-personae/README.md#china)), vivo em Hong Kong. Elias seguiu essa pista, deixando Mombaça e o Quênia em 16 de agosto de 1924.
+O intrépido autor então foi até Nelson Prego no Bar Victoria em Nairóbi, que afirmou ter visto Jack Brady ([**Dramatis Personae: China**](/dramatis-personae.md#china)), vivo em Hong Kong. Elias seguiu essa pista, deixando Mombaça e o Quênia em 16 de agosto de 1924.
 
 ## Narrando Este Capítulo
 
@@ -63,9 +63,9 @@ Caso os investigadores decidam ir para o Quênia, a rota mais provável é chega
 
 As investigações levam os personagens a [**Nairóbi**](#nairóbi) onde eles podem consultar [**O Nairobi Star**](#o-nairobi-star), assim como diversos personagens interessantes, cada um com informações úteis. Enquanto estiverem nessa cidade, os investigadores pode optar por se alojarem com o Coronel Endicott, em um cenário paralelo: [**A Cabana de Caça**](#cenário-paralelo-a-cabana-de-caça). Um encontro com o [**Velho Bundari**](#velho-bundari) pode ser um bom acontecimento, ajudando a guiar os investigadores ao clímax do capítulo na [**Montanha do Vento Agourento**](#a-montanha-do-vento-agourento).
 
-A menos que os investigadores impeçam, Hypatia Masters (**Dramatis Personae: Quênia**, p. 395) dará à luz a uma cria de Nyarlathotep (**A Cria de Nyarlathotep**, p. 432), em um ritual culminando na Montanha do Vento Agourento. Se esse evento terrível acontecer, é bem possível que os investigadores sejam levados à loucura em meio à multidão em berros reunida em adoração ao Grande Nyarlathotep. Conselhos são fornecidos sobre como lidar com os possíveis resultados.
+A menos que os investigadores impeçam, Hypatia Masters ([**Dramatis Personae: Quênia**](/dramatis-personae.md#quênia)) dará à luz a uma cria de Nyarlathotep ([**A Cria de Nyarlathotep**](#a-cria-de-nyarlathotep)), em um ritual culminando na Montanha do Vento Agourento. Se esse evento terrível acontecer, é bem possível que os investigadores sejam levados à loucura em meio à multidão em berros reunida em adoração ao Grande Nyarlathotep. Conselhos são fornecidos sobre como lidar com os possíveis resultados.
 
-As seções neste capítulos podem ser jogadas em diversas ordens. Várias pistas e rastros são fornecidos, permitindo que os jogadores sigam suas investigações de outros capítulos. Se este capítulo formar o clímax de sua campanha, é bem provável que apresente o **Ritual de Nascimento** (p. 433), ou o ritual final de janeiro de 1926 (**A Grande Conclusão**, p. 619).
+As seções neste capítulos podem ser jogadas em diversas ordens. Várias pistas e rastros são fornecidos, permitindo que os jogadores sigam suas investigações de outros capítulos. Se este capítulo formar o clímax de sua campanha, é bem provável que apresente o [**Ritual de Nascimento**](#ritual-de-nascimento), ou o ritual final de janeiro de 1926 ([**A Grande Conclusão**](#)).
 
 ## Chegando no Quênia
 
@@ -103,8 +103,8 @@ As cidades foram desenvolvidas com divisão social em mente, com uma área para 
 
 A forma como a discriminação do período é abordada fica a critério do Guardião; que pode ignorá-la completamente ou tentar mostrar esses aspectos desconfortáveis e injusto da História do século XX. Obviamente, esse assunto delicado deve ser lidado com sensibilidade e consideração.
 
-::: details Línguas
-Existem três raízes básicas comuns na África Oriental: Bantu (Kikuyu, Gusii, Kamba, Suaíli, Meru), Nilota (Nandi, Luo, Maasai, Samburu, Turkana) e Cuxíticas (Galla, Somali). Veja [**Línguas**]() para regras sobre famílias de idiomas
+::: tip Línguas
+Existem três raízes básicas comuns na África Oriental: Bantu (Kikuyu, Gusii, Kamba, Suaíli, Meru), Nilota (Nandi, Luo, Maasai, Samburu, Turkana) e Cuxíticas (Galla, Somali). Veja [**Línguas**](#) para regras sobre famílias de idiomas
 :::
 
 #### Transporte
@@ -131,9 +131,11 @@ Outras tribos que podem ser encontradas incluem os Maasai e os Nandi. Os Maasai 
 
 ## Culto Residente: Culto da Língua Sangrenta
 
+Na África Oriental, os investigadores enfrentam o culto original da Língua Sangrenta, do qual o ramo de Nova York é uma seção insignificante. Aqui, o culto se espalha principalmente na região selvagem, não em Nairóbi ou Mombaça. Seus rituais mais importantes são realizados na Montanha do Vento Agourento, além da Floresta de Aberdare, uns 112 km a norte de Nairóbi. A sacerdotisa M’Weru vive nesse lugar, mais linda e mais perigosa que nunca ([**Montanha do Vento Agourento**](#a-montanha-do-vento-agourento)). O culto usa todo tipo de arma, mas sempre faz as mutilações e assassinatos ritualísticos com a panga. Como o culto derivado estadunidense, os cultistas usam horrendos adereços de cabeça com uma tira pendurada de couro vermelho (ou uma língua de verdade) saindo da frente. Outro fator comum é a tatuagem do culto (às vezes escarificação) usada por todos os membros, que é similar as tatuagens dos cultistas de Nova York.
+
 ## Mombaça: Procurando por Ahja Singh
 
-- **Conexão:** a empresa Importações Emerson é a agente nos Estados Unidos para o exportador mombaçano Ahja Singh ([**Importações Emerson**](/capitulos/Am%C3%A9rica.md#importacoes-emerson), p. 138, América).
+- **Conexão:** a empresa Importações Emerson é a agente nos Estados Unidos para o exportador mombaçano Ahja Singh ([**Importações Emerson**](america.md#américa), p. 138, América).
 
 ### O Primeiro Ataque
 
@@ -159,7 +161,7 @@ Tabansi, um vendedor de jornal, aborda os investigadores, talvez quando eles est
 
 ### O que os Arquivos do Nairobi Star Mostram
 
-Se os arquivos do _Star_ forem queimados, alguém na cidade pode ter exemplares de 1919. O candidato mais provável seria Neville Jermyn ([Documentos Carlyle: América 12](/pistas/README.md#documentos-carlyle-américa-12)), mas isso o tornaria uma fonte muito fecunda. A critério do Guardião, talvez a srta. Smythe-Forbes possa lembrar de tudo (afinal, ela que escreveu). A seguir, as informações úteis.
+Se os arquivos do _Star_ forem queimados, alguém na cidade pode ter exemplares de 1919. O candidato mais provável seria Neville Jermyn ([Documentos Carlyle: América 12](/pistas.md#documentos-carlyle-américa-12)), mas isso o tornaria uma fonte muito fecunda. A critério do Guardião, talvez a srta. Smythe-Forbes possa lembrar de tudo (afinal, ela que escreveu). A seguir, as informações úteis.
 
 ### Casa Hampton
 
