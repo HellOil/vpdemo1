@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/HellOil/vpdemo1/issues"
   },
-  "homepage": "https://github.com/HellOil/vpdemo1#readme",
-  "dependencies": {
-    "vuepress": "^0.12.0"
- }
+  "homepage": "https://github.com/HellOil/vpdemo1#readme"
 }
