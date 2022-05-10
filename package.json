@@ -1,24 +1,16 @@
 {
   "name": "vpdemo1",
   "version": "1.0.0",
-  "description": "Fascinating sentence",
+  "description": "Exemplo site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	"docs:build": "vuepress build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helloil/vpdemo1.git"
+    "url": "https://github.com/HellOil/vpdemo1.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/helloil/vpdemo1/issues"
-  },
-  "homepage": "https://github.com/helloil/vpdemo1#readme",
-  "dependencies": {
-    "vuepress": "^0.12.0"
-  }
+  "license": "ISC"
 }
