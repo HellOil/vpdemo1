@@ -1,13 +1,15 @@
 ---
+home: false
 sidebar: auto
 ---
+
 # Dramatis Personae
 
 ## América
 
 ## Quênia
 
-### Bertram Nelson "Pregos", 36 anos, *soldado da fortuna desafortunado*
+### Bertram Nelson "Pregos", 36 anos, _soldado da fortuna desafortunado_
 
 - **Conexão:** Notas de Nairóbi de Jackson Elias — Elias encontrou Nelson Prego no Victoria Bar em Nairóbi ([**Documentos Carlyle: América 12**](/pistas/README.md#documentos-carlyle-américa-12)).
 - **Conexão:** Bumption conhece Nelson Prego (**Montgomery e Bumption**, p. 407).
