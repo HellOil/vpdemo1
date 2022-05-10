@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HellOil/vpdemo1/issues"
+    "url": "https://github.com/helloil/vpdemo1/issues"
   },
-  "homepage": "https://github.com/HellOil/vpdemo1#readme",
+  "homepage": "https://github.com/helloil/vpdemo1#readme",
   "dependencies": {
     "vuepress": "^0.12.0"
   }
