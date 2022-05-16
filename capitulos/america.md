@@ -10,7 +10,7 @@ Caso queiram saber mais sobre coisas como folclore africano e histórias sobre c
 
 ## Importações Emerson
 
-- **Conexão:** um cartão de visita encontrado após o assassinato de Jackson Elias ([**Documentos Carlyle: América 5**](/pistas/README.md#documentos-carlyle-américa-5)).
+- **Conexão:** um cartão de visita encontrado após o assassinato de Jackson Elias ([**Documentos Carlyle: América 5**](/pistas.md#documentos-carlyle-américa-5)).
 
 A empresa pode ser encontrada em um edifício longo e estreito às margens do Rio Hudson, logo após a Cozinha do Inferno. Há docas de carga em ambas as extremidades. A construção em si é um armazém cheio de cargas e contêineres, com um pequeno conjunto de escritórios no primeiro andar na parte da frente. Arthur Emerson, um homem na casa dos 50 anos, se recorda da visita de Jackson Elias e expressa condolências se mencionarem que Elias está morto.
 
@@ -48,6 +48,6 @@ Se algum dos investigadores for de uma profissão jurídica ou então versado em
 
 **_Conforme as evidências se acumulam, todas as pistas sobre os assassinatos e desaparecimentos parecem apontar para a Casa Ju-Ju. Que segredos se encerram em seus porões, e o que acontecerá com os investigadores que se aventurarem lá dentro?_**
 
-- **Conexão:** gerenciada por Silas N’Kwane, cujo nome os investigadores encontraram no verso do cartão de Arthur Emerson ([**Documentos Carlyle: América 5**](/pistas/README.md#documentos-carlyle-américa-5)).
+- **Conexão:** gerenciada por Silas N’Kwane, cujo nome os investigadores encontraram no verso do cartão de Arthur Emerson ([**Documentos Carlyle: América 5**](/pistas.md#documentos-carlyle-américa-5)).
 - **Conexão:** recomendada por Mordecai Lemming como um bom lugar para investigar sobre cultos da morte africanos ([Conhecendo o Dr. Lemming](#conhecendo-o-dr-lemming)).
 - **Conexão:** mencionada por Hilton e Millie Adams como um lugar ligado à série de desaparecimentos e assassinatos em curso no Harlem ([**Conhecendo Hilton Adams**](#conhecendo-hilton-adams) e [**O Que Millie Adams Sabe**](#o-que-millie-adams-sabe), respectivamente).

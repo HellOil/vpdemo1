@@ -1,6 +1,7 @@
 module.exports = {
+    plugins: ['@vuepress/active-header-links', '@vuepress/back-to-top', 'vuepress-plugin-smooth-scroll'] ,
     title: 'Masks Wiki',
-    description: 'Uma Wiki para Máscaras de Nyarlathotep',
+  description: 'Uma Wiki para Máscaras de Nyarlathotep',
     themeConfig: {
         logo: '/images/octopus.png',
         smoothScroll: true,
@@ -16,5 +17,6 @@ module.exports = {
             '/capitulos/quenia'
 
         ]
-    }
+  }
+
 }

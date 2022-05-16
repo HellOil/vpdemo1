@@ -155,17 +155,184 @@ Qualquer investigador que tenha sido ferido gravemente pode ser tratado no Hospi
 
 Na época da campanha, Nairóbi é uma cidade colonial nova com cerca de 8.000 pessoas. Logo além da cidade se ergue o monte Kinangop e a belíssima Cordilheira Aberdare; o Monte Quênia se ergue um pouco a norte e leste, enquanto o Monte Satima (a Montanha do Vento Agourento) se ergue ao norte. A cidade foi fundada em 1.900, com a ferrovia passando no sopé das montanhas, a última parada onde as locomotivas poderiam manobrar.
 
+Numa elevação de mais de 1.800 m, a região é relativamente fresca e seca, as vistas são soberbas, a água é adequada e o solo é excelente para plantação. Os europeus que não paravam de suar em Mombaça perceberam rapidamente essas vantagens, e o assentamento começou. Influências indianas e muçulmanos podem ser notadas em alguns distritos. O pântano mais próximo foi drenado e as ruas adornadas com árvores de eucalipto importadas.
+
+Até 1920, o Quênia era conhecido como África Oriental Britânica. Na época da visita dos investigadores, ele é a Colônia do Quênia; auto administrados na maior parte do tempo, embora preste lealdade a Coroa, que supervisiona a maioria dos assuntos estrangeiros e da Comunidade. Dois batalhões de soldados britânicos compõe a guarnição do Quênia. Existem também cerca de 1.000 policiais paramilitares, geralmente homens negros ou asiáticos, liderados por oficiais brancos. A Nairóbi fictícia apresentada neste cenário não tem semelhança com a Nairóbi moderna com mais de 500.000 habitantes.
+
+A Nairóbi dessa época é dividida em distritos: situação normal em colônias europeias e antigas colônias, como os Estados Unidos. Nairóbi tem três distritos: um para negros africanos, um para árabes e asiáticos e outro para habitantes brancos. Essas divisões são policiadas e mantidas com rigor. Escritórios, hotéis, clubes, etc, podem estar marcados como “Apenas Brancos”. Existem entradas separadas para instalações administrativas, como os tribunais. Cadeias também são segregadas. Os banheiros na estação ferroviária são enfaticamente separados. Brancos podem entrar em outras áreas com impunidade, mas mulheres e homens negros em áreas brancas sem uma razão para isso podem ser presos, expulsos fisicamente ou acompanhados para fora do local.
+
+Há favelas nos limites de Nairóbi, lar de muitas pessoas suaíli pobres, sem eletricidade ou saneamento. Muitos construíram suas casas usando latas de parafina reutilizadas. O distrito do Bazar Indiano é mais próspero, com os mercadores contando com casas mais confortáveis nas periferias.
+
+Durante a época próxima ao [**Ritual de Nascimento**](#ritual-de-nascimento) e a cerimônia de abertura do Grande Portal, em janeiro de 1926, um número crescente de cultistas do mundo todo deve passar por Nairóbi a caminho da Montanha do Vento Agourento. Muitos chegam de trem, tanto de Uganda ou de Mombaça. Esses cultistas foram guiado por indicações faladas, convocados por membros mais graduados do culto, ou guiados por visões. O mais provável é que os cultistas mantenham seus planos e destinos secretos. O Guardião pode improvisar encontros com essas pessoas se necessário. Taan Kaur é cautelosa ao lidar com tais indivíduos desconhecidos, embora tecnicamente seja sua jurisdição.
+
+### Fora de Nairobi
+
+Além das cidades e plantações em posse dos brancos, a vida dos negros africanos continua como tem sido por séculos. As culturas tribais são estáveis e bem adaptadas à terra. Embora algumas vezes sejam inimigos mortais de outras tribos, a maioria do povo é amigável e curioso sobre os estrangeiros. Eles demonstram emoção abertamente e sem reservas. Exploradores europeus buscando a fonte do Nilo passam de vilarejo em vilarejo, como que em passeios de final de semana; os locais fazem festas para eles, e a maioria desses exploradores-jornalistas costumam não terem pressa de partir.
+
+O inglês é amplamente falado em Nairóbi. Fora da cidade e em algumas cidades, a maioria dos negros africanos fala pouco ou nada de inglês. A língua comum da África Oriental e o suaíli, uma língua comercial de estrutura Bantu com um vocabulário predominantemente árabe (os árabes controlaram o comércio costeiro e oceânico da África Oriental por um milênio, incluindo o outrora rentável comercio de escravos). O suaíli é uma língua muito desenvolvida, lembrando o inglês médio em flexibilidade, sutileza e o impacto de vários vocabulários nele. Não é uma fala de comércio, como o _pidgin_ é nessa época, no Pacífico Ocidental.
+
+Apesar de cada grupo tribal grande ter sua própria língua — incluindo kikuyu, nandi e maasai — quem fala suaíli tem pouca dificuldade de ser compreendido em qualquer lugar no Quênia. Se os investigadores não falarem suaíli, e não contratarem um intérprete, é provável que não consigam nada além das informações mais básicas dos habitantes locais.
+
+::: tip O Domínio Britânico no Quênia
+
+A premissa oferecida pelo Império Britânico — de que muitas pessoas se tornam prósperas e iguais através do poder, estabilidade e mérito da Coroa — tinha um grande apelo. Durante a Grande Guerra, oradores britânicos sugeriam persistentemente que os serviços dos africanos e asiáticos durante a guerra não passariam despercebidos. Mas as esperanças de que as promessas levantaram foram frustradas quando a Inglaterra teve que se preocupar com questões internas. Na Comunidade das Nações, especialmente na Índia e África, os movimentos nacionalistas de verdade começaram a se formar quando as promessas não foram mantidas. Enquanto isso, os colonos europeus tentaram fortalecer suas próprias posições.
+
+O povo Kikuyu foi muito afetado pela criação de Nairóbi. Enquanto os Maasai foram realocados, os Kikuyu ficaram e foram explorados e maltratados pelo Império Britânico. As Associação Centra Kikuyu faz campanha pelos direitos africanos e produz um jornal, _Muigwithania_, com a intenção de tratar dos assuntos relativos ao povo Kikuyu. Johnstone Kenyatta é um de seus integrantes.
+
+:::
+
+::: tip Doenças Tropicais
+
+Doenças são uma grande ameaça para investigadores não-africanos. Para cada semana na África, deve ser feito um teste de **CON** para cada investigador, os que sofrerem um ferimento ou que consumirem água parada está mais propensos a ficarem doentes, exigindo um teste Difícil de **CON**. Em caso de fracasso, o investigador pode contrair uma de várias enfermidades possíveis: de diarreia, febre e infecções causadas por fungos até condições mais extremas, como doença do sono, hepatite, varíola e malária. Recomenda-se que o Guardião aplique condições mais leves ao invés das mais severas, desabilitando o investigador por alguns dias (ou talvez impondo um dado de penalidade ou aumentar o nível de dificuldade) ao invés de causar a sua morte.
+
+:::
+
+::: tip Locais Dignos de Nota em Nairóbi
+
+- **Estação Ferroviária:** um prédio quente e empoeirado, feito de pedra e com um teto de estanho. O trem é um de motor Classe CE 41 abastecido por lenha. A viagem de volta pra Mombaça leva de 15 a 18 horas, viajando de noite.
+
+- **Casa do Governo:** um prédio grande de estilo colonial com a bandeira britânica. Investigadores em busca de licenças de caça devem vir até aqui. Roger Corydon, o Subsecretário Colonial, pode ser encontrado no lugar, assim como Neville Jermyn ([**Conversando com Roger Corydon**](#conversando-com-roger-corydon), e [**Conversando com Neville Jermyn**](#conversando-com-neville-jermyn)).
+
+- **Praça da Cidade:** um grande parque no centro de Nairóbi, cercado por árvores de eucalipto.
+
+- **Posto do Correio:** aberto das 9 da manhã as 5 da tarde.
+
+- **New Stanley Hotel:** um estabelecimento de prestígio no coração de Nairóbi. Gerenciado por Mayence Tate (um costureiro e chapeleiro de sucesso).
+
+- **Hampton House Hotel:** mais adequado para os clientes mais abastados, este grande hotel fica entre gramados verdejantes. Gerido por Reggie Baines desde a Grande Guerra, um sujeito amigável, que gosta bastante do porto ([**Casa Hampton**](#casa-hampton)).
+
+- **Posto Comercial Dalton e Filho:** tudo que o intrépido investigador precisa para uma viagem ao campo: armas de fogo, munição, cordas, câmeras, tendas, roupas, botas, facões etc.
+
+- **East African Standard (jornal):** o jornal diário queniano mais antigo e com mais leitores.
+
+- **Nairobi Star (jornal):** jornal diário de uma página (grande) ([**O Nairobi Star**](#o-nairobi-star)), gerenciado pela Srta. Natalie Smythe-Forbes ([**Dramatis Personae: Quênia**](../dramatis-personae.md#srta-natalie-smythe-forbes)).
+
+- **Mesquita de Jamia:** com uma população muçulmana significativa, Nairóbi tem várias mesquitas. A grande Mesquita de Jamia, no meio da cidade, tem dois minaretes.
+
+- **Catedral da Santa Família Católica:** existem muitas igrejas em Nairóbi, mas esta é a maior. A congregação relativamente mista ainda é separada, com os brancos sempre usando os bancos da frente (supostamente mais próximo de Deus).
+
+- **Estação Central de Polícia:** equipada com várias celas e um necrotério pequeno.
+
+- **Banco da Inglaterra:** aberto das 10 da manhã até as 4 da tarde. De segunda a sexta.
+
+- **Norfolk Hotel:** construído em 1904, este é um estabelecimento de alta qualidade. Situado nas cercanias de Nairóbi, ele fica diante de planícies arrebatadoras.
+
+- **Distrito do Bazar Indiano:** uma região relativamente próspera, lar da população de origem asiática. Uma multitude de serviços e mercadorias podem ser adquiridos aqui.
+
+- **Mercados de Nairóbi:** barracas lotadas vendem todo tipo de mercadorias: feijões, cereais, carnes, peixes, potes de cerâmica, tecidos etc. O lugar é tomado por odores exóticos e cheio de punguistas.
+
+- **Associação Central Kikuyu:** qualquer um na Cidade Suaíli, sendo ou não da tribo Kikuyu, pode indicar onde fica os escritórios da Associação Central Kikuyu (KCA), onde fica Johnstone Kenyatta ([**Conhecendo Johnstone Kenyatta**](#conhecendo-johnstone-kenyatta)).
+
+- **Área Industrial:** a região a sul da estação ferroviária abriga fábricas e indústria: cervejarias, abatedouros, armazéns, fábricas de produtos, depósitos de combustível etc. A maioria, se não todos os negócios, são de homens brancos, com trabalhadores indianos ou africanos.
+
+- **Cidade Suaíli:** uma favela de casas de um cômodo, feitas de argila e com tetos de sapé ou latão reaproveitado. A pobreza está em todo lugar. Os investigadores podem encontrar o Dr. Starret na missão e hospital ([**Conhecendo o Dr. Horace Starret**](#conhecendo-o-dr-horace-starret)).
+
+- **Cidade Somali:** parecendo muito uma extensão da Cidade Suaíli, estava favela tem casas feitas de latas de parafinas batidas e reaproveitadas. A maioria aqui é de muçulmanos africanos.
+
+- **Distrito Asiático:** a norte do Rio Nairóbi, também conhecido como Distrito Dhobi, esta região foi separada para o povo asiático. O Clube Muthaiga pode ser encontrado na parte leste do distrito. Alguns africanos com mais posses também vivem nessa região. Os investigadores podem seguir Taan Kaur até aqui ([**A Loja de Taan Kaur**](#a-loja-de-taan-kaur)).
+
+- **Muthaiga Club:** a apenas alguns quilômetros do centro de Nairóbi, na fronteira do Distrito Asiático e cercado por jardins tropicais, fica um country clube privado. Um clube só para membros para a elite branca, que tem um bar, quadras de tênis e campo de boliche.
+
+- **Forte Smith:** base dos King’s African Rifles. Aloja centenas de soldados, também conta uma praça de armas, campo de tiro e hospital. Os investigadores podem encontrar aqui o Capitão Montgomery e o Sargento Bumption ([**Montgomery e Bumption**](#montgomery-e-bumption)), e Nelson “Prego” não fica longe, no pub Defensor Leal ([**Conhecendo Bertram Nelson “Pregos”**](#conhecendo-bertram-nelson-"pregos")).
+
+- **Distrito Europeu:** situado nos terrenos mais altos a oeste do centro de Nairóbi, o Distrito Europeu é o lar dos colonizadores brancos.
+
+- **Hospital Nacional de Nairóbi:** atende tanto pacientes brancos como negros, ainda que em alas separadas. Uma instalação grande e bem equipada.
+
+:::
+
 ## O Nairobi Star
 
 Tabansi, um vendedor de jornal, aborda os investigadores, talvez quando eles estão desfrutando de seu jantar na _verendah_ de seu hotel. Ele está oferecendo exemplares do _Nairobi Star_, um jornal diário de páginas largas e de uma folha. só Embora não saiba ler, Tabansi garante que o _Star_ é o melhor jornal do mundo: ele sabe disso porque a srta. Smythe-Forbes é uma mulher refinada, e a pessoa mais dedicada com quem ele trabalhou nos últimos dez anos. O escritório é logo no final da rua, ele diz: estão vendo ali com todas as janelas abertas? A notícia sobre o incêndio no trem (assumindo que ele ocorreu) parece estar corretamente descrita, e a pessoa descrevendo não pode ser culpada por não saber que vampiros de fogo causaram o incidente. O escritório do _Star_, com todos seus números anteriores, é uma fonte de informação de fácil acesso que os investigadores podem fazer bom uso.
 
+Se os investigadores forem ao Star, Natalie Smythe-Forbes, um tipógrafo e várias impressores estão trabalhando nesse prédio de tamanho mediano. Note que, ao chegar, as pessoas no local e os próprios investigadores pode estar ocupados combatendo fogo novamente (ver [**Outro Ataque Flamejante**](#outro-ataque-flamejante), a seguir).
+
+Caso os investigadores levantes assuntos de forma gentil e delicada, a srta. Smythe-Forbes revela que ela também acredita nas forças invisíveis dos planos sobrenaturais. Se o seu jornal se incendiar e sua intuição revelar a ela que os investigadores estão ligados a isso de alguma forma, peça para os jogadores fazerem um teste coletivo Sorte: em caso de falha, ela será um oponente implacável e uma inimiga poderosa, apesar de que um teste Difícil de Persuasão pode convencê-la do contrário. Se tiverem sucesso no teste de Sorte, ela deduz que ela e os investigadores tem um inimigo comum, e fica do lado dos investigadores. O resto do capítulo é escrito com o pressuposto de que ela e os investigadores são amigos — veja [**O que os Arquivos do Nairobi Star Mostram**](#o-que-os-arquivos-do-nairobi-star-mostram).
+
+### Outro Ataque Flamejante
+
+Usando binóculos, Taan Kauri (se estiver viva) vigia o hotel — e os investigadores. Caso os investigadores tenham feito um passeio até os escritórios do _Star_, ela fará outro ataque; lhe ocorreu que ela pode desacreditar esses estranhos intrometidos, mesmo que não consiga matá-los. Outro incêndio ou dois ligados a esses estrangeiros, e as autoridades deverão prendêlos como ameaça a segurança pública, e chutá-los para fora do Quênia no primeiro navio. Danos maiores a propriedades ou até mesmo perda de vidas pode até mesmo significar prisão ou um julgamento por homicídio.
+
+Os escritórios do _Star_ são um ótimo alvo: a localização é semi-particular, e papel queima muito bem. O _Star_ sempre apoiou medidas que, não intencionalmente, reprimiam a religião demoníaca secreta de Taan; ela ficaria muito feliz de mandar vampiros de fogo contra o jornal, para fazer o seu pior. Se ela conseguir, cerca de 11 minutos depois dos investigadores entrarem no _Star_, o prédio todo está em chamas e eles estarão sob os ataques de 2 a 4 vampiros de fogo (cores e números a escolha do Guardião).
+
+Apesar do _Star_ ser seu alvo favorecido, Taan Kaur pode atacar em qualquer lugar, em qualquer momento. Se ela começar um segundo — ou até mesmo terceiro — incêndio, as autoridades locais acusarão um ou mais dos investigadores de causar incêndio criminoso (“esses estrangeiros começaram cada incêndio! Eu aposto minha pensão nisso!”)
+
+### Repercussões do Incêndio
+
+Caso os investigadores tenham se envolvido com a lei, o melhor a se fazer pode ser terminar bem rápido sua pesquisa em Nairóbi e encontrar a localização da Montanha do Vento Agourento, mas isso pode significar que suas investigações e preparativos estejam incompletos.
+
 ### O que os Arquivos do Nairobi Star Mostram
 
-Se os arquivos do _Star_ forem queimados, alguém na cidade pode ter exemplares de 1919. O candidato mais provável seria Neville Jermyn ([Documentos Carlyle: América 12](/pistas.md#documentos-carlyle-américa-12)), mas isso o tornaria uma fonte muito fecunda. A critério do Guardião, talvez a srta. Smythe-Forbes possa lembrar de tudo (afinal, ela que escreveu). A seguir, as informações úteis.
+Se os arquivos do _Star_ forem queimados, alguém na cidade pode ter exemplares de 1919. O candidato mais provável seria Neville Jermyn ([Documentos Carlyle: América 12](/pistas.md#documentos-carlyle-america-12)), mas isso o tornaria uma fonte muito fecunda. A critério do Guardião, talvez a srta. Smythe-Forbes possa lembrar de tudo (afinal, ela que escreveu). A seguir, as informações úteis.
 
-### Casa Hampton
+#### A Chegada da Expedição Carlyle
+
+O jornal documenta a Expedição Carlyle se preparando para fazer uma viagem para confirmar informações conseguidas no Egito, a respeito de seguidores de um líder religioso que teria migrado para o sul, no Quênia. Enquanto estiveram em Nairóbi, os integrantes importantes da expedição ficaram na Casa Hampton ([**Casa Hampton**](#casa-hampton)). A expedição também tratou com o Dr. Horace Starret e o Sr. Neville Jermyn (ambos mencionados em [**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-américa-12)). Uma foto da partida mostra Sir Aubrey parecendo excepcionalmente jovem, e Hypatia Masters parecendo um tanto atarracada, talvez grávida (um teste de **Medicina** confirma tal impressão). A critério do Guardião, a srta. Smythe-Forbes pode também se lembrar que a Expedição Carlyle passou alguns dias na cabana de caça do Coronel Endicott ([**A Cabana de Caça**](#cenário-paralelo-a-cabana-de-caça)).
+
+::: danger Nota para o Guardião:
+
+fingindo inicialmente estar fazendo um relaxante safári no Vale do Rift, os integrantes da expedição voltaram atrás e começaram a dizer uma história falsa completamente diferente.
+
+:::
+
+#### A Descoberta dos Corpos
+
+O jornal dá o crédito para o Tenente Mark Selkirk ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)) e um esquadrão pela descoberta dos restos mortais. Uma nota posterior descreve a captura de cinco nandi, que foram julgados e considerados culpados pelos assassinatos, uma fotografia mostra a cena horrível dos cinco homens enforcados.
+
+::: danger Nota para o Guardião:
+
+o artigo não menciona que o relato que levou a patrulha ao massacre veio de Sam Mariga ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)), um jardineiro da estação ferroviária, que vive na Rua Charles, na Cidade Suaíli. Visitando um primo na vida de Ndovu, na Floresta de Aberdare, Mariga ouviu sobre muitas pessoas que foram mortas e não foram sepultadas, e como não era prudente passar perto do local. A região fica a norte de Nairóbi e vários quilômetros de distância do Vale do Rift.
+
+:::
+
+#### Opinião da Srta. Smythe-Forbes: sobre a Expedição Carlyle
+
+“As pessoas da expedição Carlyle eram um tipo estranho, meio insalubre. Hypatia, coitada, estava doente boa parte do tempo. Indisposta pelas manhãs, eu acho. Sim, isso mesmo. Carlyle eu pouco vi — um jovem um tanto ansioso que gostava muito de seu whisky. E Sir Aubrey, apesar de ser atraente e um tanto viril, parecia ter negócios com pessoas que não eram bem de sua posição. Eu lembro especialmente que Taan Kaur, uma mulherzinha asquerosa, estava muitas vezes na Casa Hampton. Uma mera vendedora de chá, se associando com um superior! Ela ainda está em Nairóbi. Talvez ela diga a vocês o que eles conversavam tanto — tenho certeza de que não quero saber. O médico, Huston, era muito arrogante.”
+
+#### Opinião da Srta. Smythe-Forbes: sobre Jackson Elias
+
+A srta. Smythe-Forbes também se lembra de Jackson Elias, um homem genioso, de vontade forte, ainda que um tanto rude. Ela sugere falar com Corydon ([**Conversando com Roger Corydon**](#conversando-com-roger-corydon)) na Casa Governamental, e também com o Capitão Montgomery dos African Rifles ([**Montgomery e Bumption**](#montgomery-e-bumption)).
+
+### Uma Pista Falsa
+
+Caso o Guardião queira introduzir o cenário paralelo [**A Cabana de Caça**](#cenario-paralelo-a-cabana-de-caça), o Coronel Endicott ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)) pode chegar no escritório do jornal no mesmo instante que os investigadores estão saindo (ver [**Encontrando o Coronel Endicott**](#encontrando-o-coronel-endicott)).
+
+### Outros Contatos em Nairóbi
+
+Das Notas de Nairóbi de Jackson Elias ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)) e discussões com srta. Smythe-Forbes, os investigadores devem ter uma longa lista de pessoas para conversar em Nairóbi. Alguns encontros menores são mostrados a seguir.
+
+#### Casa Hampton
 
 - **Conexão:** a srta. Smythe-Forbes menciona que a Expedição Carlyle ficou nesse lugar, e que Taan Kaur visitou o local várias vezes ([**O que os Arquivos do Nairobi Star Mostram**](#o-que-os-arquivos-do-nairobi-star-mostram)).
+
+Este hotel branco de dois andares e desconexo é bem equipado, e tem plantas e gramados muito bem cuidados. O proprietário, Reggie Baines, um velho conhecido por ser bom de copo, lembra vagamente do episódio Carlyle. Foi divertido hospedálos, apesar de suas mortes devastadoras. Faz algum tempo agora para lembrar todos os detalhes, embora se recorde que eles tinham muito contato com indivíduos asiáticos, e com negros africanos também.
+
+Baines ajudou Sir Aubrey a conseguir alguns envios para Londres: “o homem era um baita colecionador”. Baines tem um escritório cheio de papelada e algumas horas de procura pode revelar alguns papéis mencionando os envios para Londres, os quais mostram entregas que foram para a [**Fundação Penhew**](#). Baines não entrega voluntariamente essa informação e é relutante em permitir que estranhos fucem os seus papéis. Um teste de **Charme, Lábia, Intimidação** ou **Persuasão** consegue acesso ao escritório.
+
+A critério do Guardião, Baines pode lembrar que Sir Aubrey e outros membros da expedição passaram alguns dias na cabana de caça de um fulano aposentado do exército, chamado Endicott ([**A Cabana de Caça**](#cenario-paralelo-a-cabana-de-caca)).
+
+#### Conversando com Neville Jermyn
+
+- **Conexão:** a Expedição Carlyle se encontrou com Jermyn ([**O que os Arquivos do Nairobi Star Mostram**](#o-que-os-arquivos-do-nairobi-star-mostram)).
+- **Conexão:** Elias menciona Neville Jermyn ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)).
+- **Conexão:** Madame Lin Yenyu tem um exemplar do livro de Wade Jermyn em sua biblioteca ([**A Coleção de Madame Lin**](#), China).
+
+Jermyn é um advogado na Casa Governamental, e prefere receber visitantes lá do que em sua casa.
+
+Neville Jermyn acredita firmemente que o massacre da Expedição Carlyle foi relacionado a um culto e feito com auxílio sobrenatural. Infelizmente, ele tem o culto errado em mente, o do Gorila Branco, e distorce todas as evidências para se encaixarem em sua teoria. Jermyn insiste que Sir Aubrey conhecia o culto e sua base, e que ele tinha esperanças de descobrir a localização das ruínas de uma cidade na Bacia do Congo, a qual sir Wade Jermyn encontrou no século XVIII (a qual uma teoria propõe que seja a fundação de onde saiu toda civilização humana). Caso os investigadores mencionem o Faraó Sombrio, Neville diz que evidentemente, ele deve ser surgido de lá. Um teste de **Psicologia** indica que Neville Jermyn acredita firmemente em tudo isso; para ele, tudo leva a cidade em ruínas no Congo.
+
+Na verdade, existe tal cidade, no coração das florestas da Bacia do Congo, e Neville tem mapas que leva a ela, que foram obtidos por Arthur Jermyn quando ele visitou a região que se tornaria o Congo belga. Neville sempre quis ir até a Cidade do Gorila Branco, mas não tinha coragem suficiente (não é verdade que Sir Aubrey queria ir para lá, esta é outra história falsa).
+
+Investigadores procurando saber sobre lendas e querendo acompanhar Jermyn em uma expedição em busca do culto do Gorila Branco podem fazê-lo, mas isso significa que estão deixando para trás sua missão de descobrir a verdade da pesquisa de Jackson Elias. Qualquer expedição dessa natureza está além desta campanha, mas o Guardião pode querer montar essa aventura como um cenário futuro de sua própria criação.
+
+Neville Jermyn pode ajudar os investigadores com sugestões sobre viajar na região selvagem, contratando carregadores e coisas assim. Ele afirma que ele contratou todo o pessoal utilizado pela Expedição Carlyle — muito mais pessoas do que eles precisavam, mas Sir Aubrey insistiu que fosse assim. A conclusão lógica é que ele pretendia trazer de volta “tesouros” — na verdade, Sir Aubrey precisava de uma quantidade adequada de sacrifícios humanos para o deus da Língua Sangrenta. Nomes como Língua Sangrenta, o Faraó Sombrio ou M’Weru não significam nada para Jermyn.
+
+Os investigadores podem entrar na casa de Neville Jermyn invadindo-a. Lá dentro há muitos artefatos africanos, alguns relacionados com ocultismo (como um teste de **Ocultismo** indicará). Acidentalmente, Jermyn também possui um item do Mythos: uma escultura de ébano de um horror caçador. A posse do item permite ao usuário lançar o feitiço Vincular Horror Caçador sem precisar saber o feitiço. Ele conseguiu a escultura de um integrante da tribo Luo, em Nakura. Na gaveta superior da escrivaninha de Jermyn estão os mapas mostrando a localização da Cidade do Gorila Branco, com uma carta de Lin Yenyu ([**Madame Andorinha**](#), China). Essa excursão é perfeitamente adequada a uma campanha pulp, um versão pulp dessa carta é fornecida ([**Documentos Carlyle: Quênia 1**](../pistas.md#quenia)).
+
+#### Conversando com o Dr. Horace Starret
+
+- **Conexão:** a Expedição Carlyle se encontrou com o Dr. Starret ([**O que os Arquivos do Nairobi Star Mostram**](#o-que-os-arquivos-do-nairobi-star-mostram)).
+- **Conexão:** : Jackson Elias menciona o Dr. Starret ([**Documentos Carlyle: América 12**](../pistas.md#documentos-carlyle-america-12)).
 
 ## Cenário Paralelo: A Cabana de Caça
 
