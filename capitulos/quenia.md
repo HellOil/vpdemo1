@@ -336,6 +336,54 @@ Os investigadores podem entrar na casa de Neville Jermyn invadindo-a. Lá dentro
 
 ## Cenário Paralelo: A Cabana de Caça
 
+**_Em que investigadores encontram o Coronel Endicott, o Grande Caçador Branco, e descobrem os horrores que infestam as terras próximas de sua cabana._**
+
+- **Conexão:** uma visita ao Nairobi Star pode levar a um encontro com o Coronel Endicott ([Uma Pista Falsa](#uma-pista-falsa)).
+- **Conexão:** os investigadores podem ouvir falar de Endicott, que entreteve a Expedição Carlyle, através da Srta. Smythe-Forbes ([O que os Arquivos do Nairobi Star Mostram](#o-que-os-arquivos-do-nairobi-star-mostram)), ou de Reggie Baines ([Casa Hampton](#casa-hampton)), ou do Dr. Starret ([Conversando com o Dr. Horace Starret](#conversando-com-o-dr-horace-starret)).
+- **Conexão:** Endicott é mencionado nas notas de Elias sobre Nairóbi ([Documentos Carlyle: América 12](../pistas.md#documentos-carlyle-america-12)).
+- **Conexão:** se qualquer das pistas acima falhar, investigadores que queiram desfrutar os esplendores da África “selvagem”, e aproveitar para se recuperar fisicamente, podem inadvertidamente acabar parando na cabana de Endicott.
+
+Um cenário paralelo, esta trama se refere as desventuras do Coronel Endicott, um auto intitulado Grande Caçador Brando e um fornecedor de experiência da “Verdadeira África” para os turistas ricos e ingênuos. O negócio do Coronel recentemente decaiu bastante, graças a uma série de mortes bizarras perto de sua cabana.
+
+::: tip Nota:
+
+As estatísticas dos PNJs e monstros deste cenário podem
+ser encontradas no final desta seção.
+
+:::
+
+### As Desventuras do Coronel Endicott
+
+Nas proximidades das instalações principais da cabana de caça do Coronel Endicott fica a plataforma de avistamento — uma pequena choupana elevada—– que concede proteção contra chuva e pequenos predadores ao mesmo tempo em que oferece aos “caçadores” uma visão magnífica para se encontrar animais selvagens. Infelizmente, o solo ao redor dela é amaldiçoado, e aqueles que passam um tempo no local estão em perigo.
+
+Em 1919, para passar o tempo, e querendo reforçar a mentira de que estavam na África para um safári, os membros da Expedição Carlyle decidiram passar alguns dias com o Coronel Endicott. Na segunda noite de sua estadia, depois de um arroubo de bebedeira, Endicott se soltou e começou a falar de sua esposa e filho. Lamentando-se, ele explicou como, logo depois dele ter completado a construção da plataforma, ambos ficaram doentes e morreram. Penhew e Huston, ainda com suas experiências do Egito na cabeça, e querendo exercitar seus novos poderes, declararam arrogantemente que poderiam reunir Endicott com seus entes queridos. Naquela noite, na plataforma de avistamento, eles conduziram umas experiências mágicas. Como sempre acontece com essas coisas, não saíram como foi planejado.
+
+Em sua tentativa de convocar os mortos, usando uma versão alternativa e defeituosa do feitiço _Ressurreição_ conhecida como _Ressuscitar_, Huston e Penhew amaldiçoaram o solo ao redor da plataforma. Formas corrompidas (retornados) se ergueram da terra, pedaços de ossos, combinados com terra e detritos, em uma zombaria da aparência da vida. Endicott ficou cada vez mais aflito e, eventualmente, teve que ser arrastado de volta a sua cabana. Quando acordou tarde na manhã seguinte, descobriu que a Expedição Carlyle já tinha ido embora. Ele nunca mais os viu novamente.
+
+Endicott lamenta o dia que convidou a Expedição Carlyle para sua cabana, e é reticente em falar sobre eles. Se Endicott for persuadido, pode apenas fornecer relatos ofendidos sobre esses indivíduos que agora abomina. Na verdade, o episódio todo é uma pista falsa. Embora a Expedição Carlyle tenha mesmo visitado o Coronel, os investigadores não conseguirão nenhuma informação útil com ele, encontrando apenas um horror a sua espreita.
+
+A cabana do Coronel recebeu atenção do público e da imprensa por suas mortes misteriosas, que se acredita estarem relacionadas de alguma forma com a plataforma. Consequentemente, o negócio de Endicott está sofrendo e sua reputação pessoal está decaindo cada vez mais.
+
+### Dramatis Personae
+
+- **Coronel Henry Endicott, 62, KCGB, DSO, etc. (a modéstia impede de citar outros)**
+- **Conexão:** Jackson Elias menciona Endicott ([Documentos Carlyle: Nova York 12](../pistas.md#documentos-carlyle-america-12)).
+- **Conexão:** os investigadores podem encontrar Endicott nos escritórios do Nairobi Star ([Uma Pista Falsa](#uma-pista-falsa)).
+- **Conexão:** a Srta. Smythe-Forbes ([O que os Arquivos do Nairobi Star Mostram](#o-que-os-arquivos-do-nairobi-star-mostram)), e Reggie Baines ([Casa Hampton](#casa-hampton)) mencionam Endicott.
+
+O Coronel Endicott é um homem grande, barulhento e viçoso, com um fedor de whisky e desespero que é impossível de ignorar. Ele é o dono e administra uma cabana de caça, a sudoeste de Nairóbi, que atende turistas que queiram ver e caçar a vida selvagem.
+
+Tristeza e infortúnio parecem assombrar o Coronel. Logo depois de chegar a Nairóbi para construir a cabana de caça, sua esposa e filho ficaram doentes e morreram. Nos anos seguintes, Endicott foi ficando briguento e amargo, alternando amor e ódio pela África, embora ele ame o lugar, também o odeia por tirar dele a sua família.
+
+O Coronel está sofrendo de uma insanidade indefinida, apesar disso ficar aparente apenas se ele passar por algo que o faça perder ainda mais pontos de Sanidade. Ele pode parecer um louco desesperado, tentando atrair os investigadores para sua morte, ou ser uma figura pesarosa, desafiadora, ainda que tomado pela culpa. Na verdade, ele é um ex-oficial rude e ansioso, a qual foi negada sua habilidade militar pelo fim prematuro (para ele) da guerra.
+
+Os habitantes locais tratam Endicott com carinho ou desprezo (especialmente os que já sentiram sua fúria). Jogadas de dado podem determinar quem é amigável e quem não é: um resultado ímpar em qualquer dado significa que o morador local em questão não gosta dele, enquanto um resultado par indica o oposto.
+
+Endicott raramente é visto sem sua enorme arma de caçar elefantes (“Sra. Carruthers”, lembrando uma dona de pensão que ele seduziu durante a Segunda Guerra dos Bôeres).
+
+- **Descrição:** com cerca de 1,90 m de altura, rosto vermelho, bigode eriçado e um chapéu amassado (o que faz dele uma figura e tanto).
+- **Características:** colérico e briguento, ele nunca leva desaforo para casa, e protege sua cabana e sua reputação como uma leoa protegendo seus filhotes.
+
 ## Velho Bundari
 
 ## A Montanha do Vento Agourento
